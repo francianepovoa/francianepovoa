@@ -1,11 +1,12 @@
-### Hi there 👋, my name is Franciane
+### Hi there 👋, my name is Franciane,
+
 I'm from Norway, I work with Web Development. I really enjoy learning new languages and working with frameworks like React and React Native.
 
 Skills:  Node.JS/ REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on as Freelancer  
-- 📫 How to reach me: franciane@povoa.np 
-- ⚡ Fun fact: I'm Medical physics and Brazilian  
+- 📫 How to reach me: franciane@povoa.no
+- ⚡ Fun fact: I'm Medical physics ☢️ and Brazilian 🇧🇷
 
 
 
