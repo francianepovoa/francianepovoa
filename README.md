@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Franciane,
 
-I'm from Norway, I work with Web Development. I really enjoy learning new languages and working with frameworks like React and React Native.
+I live in Norway, I work with Web Development. I really enjoy learning new languages and working with frameworks like React and React Native.
 
 Skills:  Node.JS/ REACT / JS / HTML / CSS
 
