@@ -9,6 +9,7 @@ Skills:  Node.JS/ REACT / JS / HTML / CSS
 - ⚡ Fun fact: I'm Medical physics ☢️ and Brazilian 🇧🇷
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francianepovoa)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francianepovoa&show_icons=true)
 
 
 
