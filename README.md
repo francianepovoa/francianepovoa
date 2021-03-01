@@ -8,8 +8,8 @@ Skills:  Node.JS/ REACT / JS / HTML / CSS
 - 📫 How to reach me: franciane@povoa.no
 - ⚡ Fun fact: I'm Medical physics ☢️ and Brazilian 🇧🇷
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francianepovoa)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francianepovoa&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francianepovoa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
