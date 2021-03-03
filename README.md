@@ -14,7 +14,7 @@ Skills:  Node.JS/ REACT / JS / HTML / CSS
 </a>
  
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francianepovoa&layout=compact" height="196px" />
+<a href="https://github.com/anuraghazra/github-readme-stats" height="150px" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francianepovoa&layout=compact" height="150px" />
 </a>
 </div>
