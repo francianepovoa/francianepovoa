@@ -10,11 +10,11 @@ Skills:  Node.JS/ REACT / JS / HTML / CSS
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="justify" src="https://github-readme-stats.vercel.app/api?username=francianepovoa&show_icons=true" height="140px" />
+  <img align="space-around" src="https://github-readme-stats.vercel.app/api?username=francianepovoa&show_icons=true" height="140px" />
 </a>
  
  
 <a href="https://github.com/anuraghazra/github-readme-stats"  >
-<img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francianepovoa&layout=compact" height="140px" />
+<img align="space-around" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francianepovoa&layout=compact" height="140px" />
 </a>
 </div>
