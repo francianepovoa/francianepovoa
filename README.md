@@ -5,6 +5,7 @@ I live in Norway, I work with Web Development. I really enjoy learning new langu
 Skills:  JavaScript / TypeScript / React.js / Next.js / Node.js 
 
 - 🔭 I’m currently working on as Freelancer  
+- 💻 Portfolio: <a href="https://franciane.povoa.no/"> Franciane Povoa</a>
 - 📫 How to reach me: franciane@povoa.no
 - ⚡ Fun fact: I'm Medical physics ☢️ and Brazilian 🇧🇷
 
