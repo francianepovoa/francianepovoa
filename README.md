@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franciane Póvoa</h1>
 <h3 align="center">I live in Norway, I work with Web Development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francianepovoa" alt="francianepovoa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/francianepovoa" target="blank"><img src="https://img.shields.io/twitter/follow/francianepovoa?logo=twitter&style=for-the-badge" alt="francianepovoa" /></a> </p>
-
 - 🔭 I’m currently working on [crwn-clothing](https://crown-live-clothes.herokuapp.com/)
 
 - 👨‍💻 All of my projects are available at [https://franciane.povoa.no/](https://franciane.povoa.no/)
@@ -27,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francianepovoa&show_icons=true&locale=en&layout=compact" alt="francianepovoa" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=francianepovoa&" alt="francianepovoa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francianepovoa&" alt="francianepovoa" /></p>
