@@ -11,6 +11,8 @@ Skills:  JavaScript / TypeScript / React.js / Next.js / Node.js
 
 <div>
   
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=francianepovoa)](https://git.io/streak-stats)
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center"" src="https://github-readme-stats.vercel.app/api?username=francianepovoa&show_icons=true"/>
   </a> 
