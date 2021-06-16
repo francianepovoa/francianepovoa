@@ -23,4 +23,4 @@
 
 <p><img align="left" width="400" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=francianepovoa&show_icons=true&locale=en&layout=compact" alt="francianepovoa" /></p>
 
-<p><img align="center"  width="450" height="400"src="https://github-readme-streak-stats.herokuapp.com/?user=francianepovoa&" alt="francianepovoa" /></p>
+<p><img align="center"  width="400" height="350"src="https://github-readme-streak-stats.herokuapp.com/?user=francianepovoa&" alt="francianepovoa" /></p>
