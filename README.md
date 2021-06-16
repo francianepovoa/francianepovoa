@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franciane Póvoa</h1>
 <h3 align="center">I live in Norway, I work with Web Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=francianepovoa&label=Profile%20views&color=0e75b6&style=flat" alt="francianepovoa" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francianepovoa" alt="francianepovoa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/francianepovoa" target="blank"><img src="https://img.shields.io/twitter/follow/francianepovoa?logo=twitter&style=for-the-badge" alt="francianepovoa" /></a> </p>
@@ -11,13 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://franciane.povoa.no/](https://franciane.povoa.no/)
 
-- 📝 I regularly write articles on [https://flipboard.com/topic/webdevelopment](https://flipboard.com/topic/webdevelopment)
-
 - 💬 Ask me about **JavaScript, React.js, Next.js and Node.js**
 
 - 📫 How to reach me **franciane@povoa.no**
-
-- 📄 Know about my experiences [https://franciane.povoa.no/static/media/Resume-Franciane-Ribeiro-P%C3%B3voa.8ab81525.pdf](https://franciane.povoa.no/static/media/Resume-Franciane-Ribeiro-P%C3%B3voa.8ab81525.pdf)
 
 - ⚡ Fun fact **I'm Medical physics ☢️ and Brazilian 🇧🇷**
 
