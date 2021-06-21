@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franciane Póvoa</h1>
-<h3 align="center">I live in Norway, I work with Web Development.</h3>
+<h3 align="center">I live in Norway and work with Web Development.</h3>
 
 - 🔭 I’m currently working on [crwn-clothing](https://crown-live-clothes.herokuapp.com/)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **franciane@povoa.no**
 
-- ⚡ Fun fact **I'm Medical physics ☢️ and Brazilian 🇧🇷**
+- ⚡ Fun fact **I'm a Medical physics ☢️ and Brazilian 🇧🇷**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
