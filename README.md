@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franciane Póvoa</h1>
 <h3 align="center">I live in Norway and work with Web Development.</h3>
 
-- 🔭 I’m currently working on [crwn-clothing](https://crown-live-clothes.herokuapp.com/)
-
 - 👨‍💻 All of my projects are available at [https://franciane.povoa.no/](https://franciane.povoa.no/)
 
 - 💬 Ask me about **JavaScript, React.js, Next.js and Node.js**
